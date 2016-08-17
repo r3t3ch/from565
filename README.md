@@ -13,10 +13,10 @@ and execute the below command.
 make rletopng or make
 
 Creating RLE file from png:<br/>
-Change your <filename>.png to mylogo.png and replace the current file.
+Change your <filename>.png to initlogo.png and replace the current file.
 and execute the below command.
 <br/>
-make pngtorle
+make pngtorle or make pngtorle && make clean
 
 NOTE: 'make clean' will remove all the generated file for fresh build.
 
