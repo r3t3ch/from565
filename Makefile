@@ -17,4 +17,4 @@ logo.raw :
 	  ./5652rgb -rle < logo.rle > logo.raw
 
 clean :
-	rm -rf initlogo.png logo.raw 5652rgb initlogo.raw initlogo.rleW
+	rm -rf initlogo.png logo.raw 5652rgb initlogo.raw initlogo.rle
